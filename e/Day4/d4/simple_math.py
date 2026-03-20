@@ -1,5 +1,35 @@
+
 """
+
 A collection of simple math operations
+
+
+Functions
+---------
+simple_add : Add two numbers
+simple_sub : Subtract two numbers
+simple_mult : Multiply two numbers
+simple_div : Divide two numbers
+poly_first : Evaluate a first-order polynomial
+poly_second : Evaluate a second-order polynomial
+
+
+Parameters
+------------
+object：float or int
+
+
+Returns
+------------
+result: float or int
+
+
+Example
+------------
+>>>simple_math.simple_add(1,2)
+3
+
+
 """
 
 def simple_add(a,b):
